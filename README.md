@@ -1,5 +1,4 @@
 # Authentication Backend
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Suj018300/auth-backend)
 
 This repository contains a robust and secure authentication backend service built with Java and Spring Boot. It provides a complete solution for user management, authentication, and authorization, featuring both local (email/password) and social (OAuth2) login mechanisms.
 
